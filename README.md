@@ -8,3 +8,9 @@
 4. 상속 없음
 5. flexDirection: column
 6. flex: 1 => 모든 공간을 이용할 수 있다.
+
+## 확인할 것
+
+1. class
+2. componentDidMount()
+3. await
